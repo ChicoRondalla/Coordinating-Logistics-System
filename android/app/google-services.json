@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558361796665",
+    "project_id": "coordinating-logistics-system",
+    "storage_bucket": "coordinating-logistics-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558361796665:android:c8485205595021efb82de8",
+        "android_client_info": {
+          "package_name": "com.example.coordinating_logistics_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMDh0a9z2aMAZeMYbk83Np0TyNx_sS6vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
